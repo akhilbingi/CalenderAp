@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33378" started-at="2021-04-03T16:03:00 EDT" finished-at="2021-04-03T16:03:33 EDT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33378" started-at="2021-04-03T16:03:00 EDT" finished-at="2021-04-03T16:03:33 EDT">
+      <class name="E2EProject.calenderApp.regPageValidation">
+        <test-method status="PASS" signature="invokingRegistrationPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:E2EProject.calenderApp.regPageValidation@10e92f8f]" name="invokingRegistrationPage" duration-ms="6654" started-at="2021-04-03T16:03:00 EDT" data-provider="getdata" finished-at="2021-04-03T16:03:07 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akhilbingi@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[akhil bingi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[akhilbingi32]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Matrix@321456]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokingRegistrationPage -->
+        <test-method status="PASS" signature="invokingRegistrationPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:E2EProject.calenderApp.regPageValidation@10e92f8f]" name="invokingRegistrationPage" duration-ms="9368" started-at="2021-04-03T16:03:07 EDT" data-provider="getdata" finished-at="2021-04-03T16:03:16 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akhilbingi64@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bingi64]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[akhilbingi64@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Matrix@32164]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[https://www.google.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokingRegistrationPage -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:E2EProject.calenderApp.regPageValidation@10e92f8f]" name="aftertest" is-config="true" duration-ms="87" started-at="2021-04-03T16:03:33 EDT" finished-at="2021-04-03T16:03:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- E2EProject.calenderApp.regPageValidation -->
+      <class name="E2EProject.calenderApp.LoginValidation">
+        <test-method status="PASS" signature="invokingLoginPage(java.lang.String, java.lang.String)[pri:0, instance:E2EProject.calenderApp.LoginValidation@7ce3cb8e]" name="invokingLoginPage" duration-ms="8637" started-at="2021-04-03T16:03:16 EDT" data-provider="getdata" finished-at="2021-04-03T16:03:25 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akhilbingi32]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Matrix@321456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokingLoginPage -->
+        <test-method status="PASS" signature="invokingLoginPage(java.lang.String, java.lang.String)[pri:0, instance:E2EProject.calenderApp.LoginValidation@7ce3cb8e]" name="invokingLoginPage" duration-ms="8343" started-at="2021-04-03T16:03:25 EDT" data-provider="getdata" finished-at="2021-04-03T16:03:33 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akhilbingi64@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Matrix@32164]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokingLoginPage -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:E2EProject.calenderApp.LoginValidation@7ce3cb8e]" name="aftertest" is-config="true" duration-ms="175" started-at="2021-04-03T16:03:33 EDT" finished-at="2021-04-03T16:03:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- E2EProject.calenderApp.LoginValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
